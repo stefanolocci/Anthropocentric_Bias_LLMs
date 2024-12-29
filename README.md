@@ -1,1 +1,1 @@
-# Anthropocentric_Bias_LLMs
+# Towards Addressing Anthropocentric Bias in Large Language Models
